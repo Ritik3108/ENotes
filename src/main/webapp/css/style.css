@@ -1,0 +1,25 @@
+.bg-custom{
+	
+	background:#8e24aa;   /*Taking from color materializecss*/
+	
+}
+
+.navbar .nav-item .nav-link{
+	
+	font-size:20px;
+	color:white;
+	
+}
+
+.navbar-custom .nav-item:hover .nav-link{
+	
+	background:white;
+	color:black;
+	border-radius: 10px;
+	
+}
+
+.div-color{
+	background-image: linear-gradient(to right top, #f87935, #fb9727, #f7b41f, #eed126, #dfee3f);
+	height: 500px;
+}
