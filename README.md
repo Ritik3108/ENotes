@@ -1,5 +1,4 @@
 # ENotes
-
-Language Used:- ADVANCE JAVA,
-                JSP & SERVLET,
+ADVANCE JAVA Project
+Language Used:- JSP & SERVLET,
                 BOOTSTRAP,MySQL DB
