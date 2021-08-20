@@ -1,4 +1,4 @@
 # ENotes
-ADVANCE JAVA Project</br>
-<b >Language Used:-</b></br> JSP & SERVLET,</br>
+<h1>ADVANCE JAVA Project<h1></br>
+<b mt-2>Language Used:-</b></br> JSP & SERVLET,</br>
                 BOOTSTRAP,</br>MySQL DB
